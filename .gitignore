@@ -1,3 +1,6 @@
 # data, work directoryは不要
 data/
 work/
+
+# Jupyter Notebook
+.ipynb_checkpoints
